@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chroma-dotnet", "chroma-dotnet\chroma-dotnet\chroma-dotnet.csproj", "{5755BE3B-881E-4316-85E4-37E807702601}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chroma-dotnet.Android", "chroma-dotnet\chroma-dotnet.Android\chroma-dotnet.Android.csproj", "{C69A91C6-975B-451F-9DF1-75B98C939E29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chroma-dotnet.Desktop", "chroma-dotnet\chroma-dotnet.Desktop\chroma-dotnet.Desktop.csproj", "{FDABA288-CC78-4994-92FE-5222CEA26231}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chroma-dotnet.iOS", "chroma-dotnet\chroma-dotnet.iOS\chroma-dotnet.iOS.csproj", "{BB0EC71A-AECA-47C4-856B-E016AF5025E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chroma-dotnet.Browser", "chroma-dotnet\chroma-dotnet.Browser\chroma-dotnet.Browser.csproj", "{2FB26611-A1B5-4AFB-946D-7DD9336229F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5755BE3B-881E-4316-85E4-37E807702601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5755BE3B-881E-4316-85E4-37E807702601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5755BE3B-881E-4316-85E4-37E807702601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5755BE3B-881E-4316-85E4-37E807702601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C69A91C6-975B-451F-9DF1-75B98C939E29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C69A91C6-975B-451F-9DF1-75B98C939E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C69A91C6-975B-451F-9DF1-75B98C939E29}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C69A91C6-975B-451F-9DF1-75B98C939E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C69A91C6-975B-451F-9DF1-75B98C939E29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C69A91C6-975B-451F-9DF1-75B98C939E29}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FDABA288-CC78-4994-92FE-5222CEA26231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDABA288-CC78-4994-92FE-5222CEA26231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDABA288-CC78-4994-92FE-5222CEA26231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDABA288-CC78-4994-92FE-5222CEA26231}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0EC71A-AECA-47C4-856B-E016AF5025E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0EC71A-AECA-47C4-856B-E016AF5025E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0EC71A-AECA-47C4-856B-E016AF5025E0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BB0EC71A-AECA-47C4-856B-E016AF5025E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0EC71A-AECA-47C4-856B-E016AF5025E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0EC71A-AECA-47C4-856B-E016AF5025E0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{2FB26611-A1B5-4AFB-946D-7DD9336229F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FB26611-A1B5-4AFB-946D-7DD9336229F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FB26611-A1B5-4AFB-946D-7DD9336229F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FB26611-A1B5-4AFB-946D-7DD9336229F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
